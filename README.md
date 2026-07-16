@@ -58,7 +58,9 @@ I am a backend-focused developer specializing in building scalable enterprise ar
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh9943&show_icons=true&theme=radical" alt="Santhosh's GitHub Stats" />
+  <a href="https://github.com/santhosh9943">
+    <img src="https://streak-stats.demolab.com/?user=santhosh9943&theme=radical&hide_border=true" alt="Santhosh's GitHub Streak" />
+  </a>
 </div>
 
 ---
